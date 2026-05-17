@@ -39,7 +39,7 @@ Worked with messy datasets containing missing values and inconsistent structures
 - Transformed raw data into analysis-ready format
 
 **Skills used:**
-Python, Pandas, NumPy, Excel, Data Cleaning, Data Wrangling
+Excel, Data Cleaning, Data Wrangling
 
 ---
 
